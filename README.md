@@ -13,7 +13,8 @@ Es posible que se necesiten programas externos para descomprimir el .zip. Recomi
 
 Para descomprimir el programa: 
 
-![video](https://gyazo.com/c169a891f8a9c140dce689042d529633)
+![TR2](https://github.com/user-attachments/assets/756ed280-9851-42f9-a443-a3ddb814e185)
 
-*Según la versión de Windows utilizada puede variar el método. 
+*Según la versión de Windows utilizada puede variar el método. Consulte las instrucciones en su versión.
+
 **Es posible que para dispositivos Apple se requiera de programas externos que soporten ejecutables (Wine o derivados).
