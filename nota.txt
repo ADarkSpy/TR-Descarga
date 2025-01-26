@@ -1,0 +1,13 @@
+\\ IMPORTANTE \\
+
+Es posible que se requiera instalar Python ya que es la base del lenguaje.
+
+Para instalarlo, recomiendo la página web o en la carpeta de depenedencias, si github me lo permite, quedará puesto.
+
+Al instalar, clicad la casilla de que se installe en PATH.
+
+A cualquier duda podéis contactar a mi correo del colegio:
+
+- a-izan.martinez@martorell.femlamerce.cat
+
+o también podéis preguntarme si me veis por la clase.
